@@ -1,0 +1,6 @@
+.idea
+*.yaml
+*.md
+tests
+*.txt
+__init__.py
